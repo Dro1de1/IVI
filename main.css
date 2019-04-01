@@ -10,6 +10,7 @@ body {
     background-color: rgb(26, 26, 26);
     position: relative;
     background-image:radial-gradient(circle,rgba(255, 166, 0, 0.048),rgba(0, 0, 0, 0) 60%);
+    overflow: hidden;
 }
 .grenn {
     position: absolute;
