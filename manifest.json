@@ -1,8 +1,8 @@
 {
-  "short_name": "Sam",
+  "short_name": "SamF",
   "name": "Samuel Josef Schad",
   "start_url": "/index.html",
   "background_color": "#3367D6",
-  "display": "standalone",
+  "display": "fullscreen",
   "theme_color": "#3367D6"
 }
